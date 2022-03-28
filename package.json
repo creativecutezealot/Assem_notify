@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "source-map-support": "^0.5.3",
+    "ramda": "^0.25.0",
+    "aws-sdk": "^2.203.0",
+    "apn": "^2.2.0"
+  }
+}
